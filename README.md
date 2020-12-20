@@ -17,4 +17,6 @@ Note: In algorithms 2 and 3 it is also necessary to determine the order of multi
 
 ## Links
 
-[Beysian Network - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_network)
+[Bayesian Network - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_network)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnzooVhotsU3CjvAzkm_Az2UP3BpUAp3DAQ&usqp=CAU)
